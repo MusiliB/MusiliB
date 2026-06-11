@@ -10,7 +10,6 @@ I'm a passionate **Full Stack Software Engineer** and technical co-founder with 
 - 💬 Ask me about **Elixir/Phoenix, Java/Spring Boot, payment integrations (M-Pesa, CyberSource), and microservices**
 - 📫 How to reach me: [musilibrian07@gmail.com](mailto:musilibrian07@gmail.com)
 - 🌍 Based in: **Nairobi, Kenya**
-- ⚡ Fun fact: I built a WhatsApp bot that lets a 2-person ISP run their entire business from a phone!
 
 ---
 
