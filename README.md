@@ -69,13 +69,6 @@ I'm a passionate **Full Stack Software Engineer** and technical co-founder with 
 
 ---
 
-## 📈 GitHub Stats
-
-![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MusiliB&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MusiliB&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🏅 Certifications
 
 - 🏆 Oracle Certified Associate, Java SE 8 Programmer
