@@ -4,9 +4,6 @@
 
 I'm a passionate **Full Stack Software Engineer** and technical co-founder with 4+ years of experience building scalable, high-performance systems in **Elixir/Phoenix**, **Java/Spring Boot**, and **React**. I specialize in fintech infrastructure, payment gateway integration, and multi-tenant SaaS products — engineered for reliability and real-world impact.
 
-- 🔭 I'm currently working on **[NexaWISP](https://github.com/MusiliB)** — a multi-tenant SaaS platform for Kenya's micro-ISP market
-- 🌱 I'm currently exploring **distributed systems design** and **advanced OTP patterns in Elixir**
-- 👯 I'm looking to collaborate on **impactful fintech, SaaS, or open-source infrastructure projects**
 - 💬 Ask me about **Elixir/Phoenix, Java/Spring Boot, payment integrations (M-Pesa, CyberSource), and microservices**
 - 📫 How to reach me: [musilibrian07@gmail.com](mailto:musilibrian07@gmail.com)
 - 🌍 Based in: **Nairobi, Kenya**
