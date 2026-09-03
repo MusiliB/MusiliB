@@ -50,25 +50,6 @@ I'm a passionate **Full Stack Software Engineer** and technical co-founder with 
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
-
-## 🏆 Featured Projects
-
-### 🌟 [NexaWISP — Micro-ISP SaaS Platform](https://github.com/MusiliB)
-A production multi-tenant SaaS platform built for Kenya's micro-ISP operators on **Phoenix 1.8 / Elixir / LiveView / PostgreSQL**.
-
-- **Tech Stack:** Elixir, Phoenix LiveView, PostgreSQL, Oban, Safaricom Daraja API, Meta Cloud API
-- **Features:** M-Pesa STK Push self-renewal with auto-reconnection, stateful WhatsApp operations bot (11 command handlers, GenServer/ETS state machine), automated subscriber billing lifecycle with Oban workers, MikroTik bridge agent integration
-
----
-
-### 🌟 [Tek Triangle — Inventory & Accounting Platform](https://github.com/MusiliB)
-A modular-monolith inventory and accounting system built in **Spring Boot (Java 17)** using Spring Modulith for a Nairobi-based sneaker retailer — now processing live customer payments.
-
-- **Tech Stack:** Java 17, Spring Boot, Spring Modulith, Next.js, PostgreSQL, Paystack API
-- **Features:** Pluggable costing engine (FIFO, FEFO, WAC, Specific Identification), lot-level inventory tracking, full stock-movement ledger, multi-tenant Paystack checkout with idempotency
-
----
-
 ### 🌟 Pesaflow Payments Platform
 Enterprise-grade fintech payments platform built end-to-end at **Pesaflow Limited**.
 
