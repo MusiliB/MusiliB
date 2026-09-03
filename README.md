@@ -50,21 +50,6 @@ I'm a passionate **Full Stack Software Engineer** and technical co-founder with 
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
-### 🌟 Pesaflow Payments Platform
-Enterprise-grade fintech payments platform built end-to-end at **Pesaflow Limited**.
-
-- **Tech Stack:** Elixir, Phoenix LiveView, OTP/Oban, PostgreSQL
-- **Features:** Double-entry accounting ledger, M-Pesa/Airtel Money/CyberSource (3-D Secure) integrations, async IPN processing with supervised retryable workers, multi-tenant Chama group finance platform with configurable loans engine
-
----
-
-### 🌟 Systech Pension Administration System
-High-availability pension management backend serving **5,000+ scheme members** at Systech Limited.
-
-- **Tech Stack:** Java EE, Spring Boot, React 19, PostgreSQL, Oracle
-- **Features:** RBA-compliant benefit calculation engine (DC, DB, provident fund), IPRS KYC integration reducing manual processing by 80%+, JWT/OAuth2/RBAC security, full portal migration from Sencha Ext JS to React 19
-
----
 
 ## 💼 Professional Experience
 
